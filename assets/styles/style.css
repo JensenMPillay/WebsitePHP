@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "montserrat";
+  src: url("/website/assets/styles/polices/Montserrat-VariableFont_wght.ttf")
+    format("truetype");
+}
+
+/* Global CSS */
+
+body {
+  font-family: "montserrat" !important;
+}
